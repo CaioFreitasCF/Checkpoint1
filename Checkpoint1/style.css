@@ -1,0 +1,120 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,400;0,500;1,100&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    padding: 1.2rem;
+}
+
+ul#menu {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    gap: 1rem;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+
+
+}
+
+div#icon{
+    background: #272727;
+
+}
+
+div#home-icon{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    gap: 1rem;
+    
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+div#icons-search{
+   width: 20px;
+   height: 20px;
+   top: 38px;
+   left: 1503px;
+   padding: 2.5px, 1.29px, 2.31px, 1.29px;
+   line-height: 1mm;
+
+}
+
+section#banner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+
+  
+    
+}
+
+section#banner div h2 {
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    
+
+
+
+}
+
+section#banner div p{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    
+
+
+    
+    
+   
+
+}
+
+section#banner div image-build {
+    width: 660px;
+    height: 850px;
+    left: 914px;
+
+
+
+}
+
+
+
+
